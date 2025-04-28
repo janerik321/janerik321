@@ -1,7 +1,7 @@
 <h1 align="center">Hei 👋, jeg heter Jan Erik</h1>
 <h3 align="center">Entusiastisk frontend-utvikler</h3>
 
-- 🔭 For øyeblikket jobber jeg med [Gutensearch](https://github.com/janerik321/gutensearch)
+- 🔭 For øyeblikket jobber jeg med [MapTrack](https://github.com/janerik321/map-track)
 
 - 📫 Kontakt **janerik.kodehode@gmail.com**
 
